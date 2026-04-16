@@ -119,7 +119,7 @@ if (isset($data['slip']['advice'])) {
 <body>
 
 <div class="quote-box">
-    <h2>💬 Daily Advice</h2>
+    <h2>💬 Daily Advice 16 Apr 2026</h2>
 
     <div id="spinner" class="spinner"></div>
 
