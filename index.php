@@ -12,7 +12,7 @@ if (isset($data['slip']['advice'])) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>💬 Advice of the Day</title>
+    <title>💬 Advice of the Day 16 Apr 2026</title>
 
     <style>
         * {
